@@ -8,6 +8,7 @@ setuptools.setup (
   author='seokjinkang',
   author_email='2615208@naver.com',
   url = 'https://github.com/seokko/mycalc',
+  download_url = https://github.com/seokko/mycalc/archive/refs/tags/v1.0.0.zip",
   install_requires=['pytest'],
   long_description = 'oss-dev mycalc',
   long_description_content_type = 'text/markdown',
